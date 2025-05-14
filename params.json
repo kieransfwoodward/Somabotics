@@ -1,0 +1,1 @@
+{"embed_dim": 128, "num_heads": 8, "ff_dim": 384, "num_transformer_blocks": 5, "mlp_units": [256, 128, 64], "dropout": 0.2, "window_size": 400, "max_sequence_length": 4513, "feature_dim": 14}
